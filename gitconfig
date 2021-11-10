@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = carolinalacasta@hotmail.com
+	name = Carolina Lacasta
